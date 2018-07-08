@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="hostname" value="localhost"/>
+		<add key="database" value="eldewrito"/>
+		<add key="table" value="bans"/>
+		<add key="username" value="root"/>
+		<add key="password" value=""/>
+		<add key="ssl" value="false"/>
+	</appSettings>
+</configuration>
